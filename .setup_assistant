@@ -1,7 +1,7 @@
 moveit_setup_assistant_config:
   urdf:
-    package: ur_yt_sim
-    relative_path: urdf/ur5_camera.urdf.xacro
+    package: ur5_tsukii
+    relative_path: urdf/ur5_ts_gripper.urdf.xacro
   srdf:
     relative_path: config/ur.srdf
   package_settings:
